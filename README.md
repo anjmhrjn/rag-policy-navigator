@@ -80,8 +80,8 @@ Results showed that:
 * Backend: Python
 * Framework: LangChain-style RAG pipeline
 * Vector Store: FAISS
-* Embeddings: Sentence Transformers / OpenAI embeddings
-* LLMs: OpenAI models
+* Embeddings: Sentence Transformers
+* LLMs: Mistrala-7B-Instruct
 
 ---
 
